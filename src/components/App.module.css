@@ -3,4 +3,5 @@
   padding-top: var(--size-4);
   text-align: center;
   max-inline-size: 100%;
+  color: var(--gray-7);
 }
