@@ -1,0 +1,6 @@
+.pageHeading {
+  margin: 0;
+  padding-top: var(--size-4);
+  text-align: center;
+  max-inline-size: 100%;
+}

@@ -1,0 +1,6 @@
+/*  open-props setup */
+@import '../../node_modules/open-props/open-props.min.css';
+@import '../../node_modules/open-props/normalize.min.css';
+
+@import 'variables.css';
+@import 'style.css';
