@@ -1,0 +1,13 @@
+:root{
+    --my-background-1:var(--green-0);
+    --my-text-1:var(--grape-9)
+}
+
+body{
+    background-color: var(--my-background-1);
+    
+}
+
+button{
+    background-color: var(--red-6);
+}
